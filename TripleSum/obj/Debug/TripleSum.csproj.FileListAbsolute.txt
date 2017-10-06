@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysLab\TripleSum\bin\Debug\TripleSum.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\TripleSum\bin\Debug\TripleSum.exe
+C:\Users\Icaka\source\repos\ArraysLab\TripleSum\bin\Debug\TripleSum.pdb
+C:\Users\Icaka\source\repos\ArraysLab\TripleSum\obj\Debug\TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\TripleSum\obj\Debug\TripleSum.exe
+C:\Users\Icaka\source\repos\ArraysLab\TripleSum\obj\Debug\TripleSum.pdb

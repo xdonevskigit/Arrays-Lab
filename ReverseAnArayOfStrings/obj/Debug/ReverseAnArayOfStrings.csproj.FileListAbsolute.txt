@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\bin\Debug\ReverseAnArayOfStrings.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\bin\Debug\ReverseAnArayOfStrings.exe
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\bin\Debug\ReverseAnArayOfStrings.pdb
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\obj\Debug\ReverseAnArayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\obj\Debug\ReverseAnArayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\obj\Debug\ReverseAnArayOfStrings.exe
+C:\Users\Icaka\source\repos\ArraysLab\ReverseAnArayOfStrings\obj\Debug\ReverseAnArayOfStrings.pdb

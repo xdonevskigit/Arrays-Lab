@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.exe
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\bin\Debug\ReverseArrayOfIntegers.pdb
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.exe
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.pdb
+C:\Users\Icaka\source\repos\ArraysLab\ReverseArrayOfIntegers\obj\Debug\ReverseArrayOfIntegers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\Icaka\source\repos\ArraysLab\DayOfWeek\obj\Debug\DayOfWeek.pdb

@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ArraysLab\ExtractMiddleOneTwoOrThreeElements\bin\Debug\ExtractMiddleOneTwoOrThreeElements.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\ExtractMiddleOneTwoOrThreeElements\bin\Debug\ExtractMiddleOneTwoOrThreeElements.exe
+C:\Users\Icaka\source\repos\ArraysLab\ExtractMiddleOneTwoOrThreeElements\bin\Debug\ExtractMiddleOneTwoOrThreeElements.pdb
+C:\Users\Icaka\source\repos\ArraysLab\ExtractMiddleOneTwoOrThreeElements\obj\Debug\ExtractMiddleOneTwoOrThreeElements.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\ExtractMiddleOneTwoOrThreeElements\obj\Debug\ExtractMiddleOneTwoOrThreeElements.exe
+C:\Users\Icaka\source\repos\ArraysLab\ExtractMiddleOneTwoOrThreeElements\obj\Debug\ExtractMiddleOneTwoOrThreeElements.pdb

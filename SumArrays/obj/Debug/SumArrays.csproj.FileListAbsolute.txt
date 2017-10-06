@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\bin\Debug\SumArrays.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\bin\Debug\SumArrays.exe
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\bin\Debug\SumArrays.pdb
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\obj\Debug\SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\obj\Debug\SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\obj\Debug\SumArrays.exe
+C:\Users\Icaka\source\repos\ArraysLab\SumArrays\obj\Debug\SumArrays.pdb

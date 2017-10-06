@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\bin\Debug\LastKNumberSum.exe.config
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\bin\Debug\LastKNumberSum.exe
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\bin\Debug\LastKNumberSum.pdb
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\obj\Debug\LastKNumberSum.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\obj\Debug\LastKNumberSum.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\obj\Debug\LastKNumberSum.exe
+C:\Users\Icaka\source\repos\ArraysLab\LastKNumberSum\obj\Debug\LastKNumberSum.pdb
